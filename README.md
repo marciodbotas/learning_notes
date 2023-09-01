@@ -51,6 +51,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [The Art of Destroying Software](talks/the-art-of-destroying-software.md) by **Greg Young**, 2014.
 * [The Do's and Don'ts of Error Handling](talks/the-dos-and-donts-of-error-handling.md) by **Joe Armstrong**, 2018.
 * [The Mess We Are In](talks/the-mess-we-are-in.md) by **Joe Armstrong**, 2014.
+* [The magical science of storytelling](https://www.youtube.com/watch?v=Nj-hdQMa3uA&ab_channel=TEDxTalks) by **David JP Phillips**, 2017
 * [The World after Microservice Migration](talks/the-world-after-microservice-migration.md) by **Dejan Mitrovic**, 2018.
 * [What I Learned Doing 250 Interviews at Google](talks/what-i-learned-doing-250-interviews-at-google.md) by **Moishe Lettvin**, 2014.
 * [What I wish I had known before scaling Uber to 1000 services](talks/what-i-wish-i-had-known-before-scaling-uber-to-1000-services.md) by **Matt Ranney**, 2016.
