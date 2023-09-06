@@ -279,10 +279,11 @@ _Delegation is not the same thing as abdication_. When you're delegating respons
 Being a good leader means being good at delegating.
 
 * **Use team's goals to understand which details you should dig into.** If the team is making progress on its goals, the systems are stable, and the product manager is happy, I rarely dig into the details beyond cursory overview. However, it requires goals with a plan for people to be making progress against, and a product manager who can give you another perspective. **When you are managing a team that doesn't have a clear plan, use the details you'd want to monitor to help them create one.**
-* **Gather information from the systems before going to the people.** The worst micromanagers are those who constantly ask for information they could easily get themselves. Use a light touch. The team will not be productive or happy spending half of their time gathering information for you that you could easily find yourself.
-* **Adjust your focus depending on the stage of projects.** You should know all of the details of the project status as part of your regular team process.
+* **Gather information from the systems before going to the people.** If you want to know the status of work, look at the version control system and the ticketing system. The worst micromanagers are those who constantly ask for information they could easily get themselves. Use a light touch. The team will not be productive or happy spending half of their time gathering information for you that you could easily find yourself.
+* **Adjust your focus depending on the stage of projects.** You should know all of the details of the project status as part of your regular team process. Different detaila are important at different project stages. In the beggining and ending stages you may want to be more involved. During the normal workflow though, it's usually enough to know what;s moving foward and what is taking longer than expecte, so you can take actions on that.
 * **Establish standards for code and systems.**
-* **Treat the open sharing information, good or bad in a neutral to positive way.** If you don't figure out how to let go of details, delegate, and trust your team.
+* **Treat the open sharing information, good or bad in a neutral to positive way.** If you don't figure out how to let go of details, delegate, and trust your team, you're likely to suffer personally. You will end up working longer and longer hours as your resposiubilities increase. You time is too valuable to waste, and your team deserves a manager who is willing to trust them to do things on their own.
+   * Remember that it is important to direct your attention to bigger problems, spend some hours to focus on the future instead of the details of the current moment.
 
 ### Creating a culture of continuous feedback
 
