@@ -203,6 +203,10 @@ Processes must meet the needs of the team and the work.
 * **Lead technical decisions.** Determine which decisions must be made by you, which decisions should be delegated to others with more expertise, and which decisions require the whole team to resolve. Make it clear what the matter under discussion is, and communicate the outcome.
 * **Communicate.** Your productivity is now less important than the productivity of the team. You will pay the price of communication overhead, you represent the team. If one universal talent separates successful leaders it's communication skills. Successful leaders write well, they read carefully, and the get up in front of a group and speak. Don't forget to listen and give others a chance to speak. If you aren't a good note taker, you may need to become one.
 
+```diff
+- Note for M1S --> This is where you have actually started to make the notes
+```
+
 ## Managing people
 
 Your team is only as healthy as its individuals.
@@ -216,6 +220,7 @@ The main tasks required to manage people:
 ### Starting a new reporting relationship off right
 
 * **Build trust and rapport**. Get to know each other.
+    *  The book provides you with a set of question that can be usefull as a kickoff to get to know your colleagues. Of course, the questions can be modified and others can be added however, the interesting in this experience of getting to know your poeple, through these questions are not the answers for the questions but the discussions these questions unfold, and the extra information that can be learnt about your report.
 * **Create a 30/60/90 day plan**. This plan includes basic goals. The more senior the hire, the more he should participate in creating the plan.
 * **Encouraging participation by updating new hire documentation**. Team onboarding documents get updated on every new hire to get up to speed.
 * **Communicate your style and expectations**. How often will you meet him, how will you share information, and when and how often you'll want to review his work.
@@ -259,9 +264,11 @@ Remember that when you're not taking notes you'll probably forget some important
 
 ### Good manager, bad manager: micromanager, delegator
 
-The hardest thing about micromanagement is that there are times when you need to do it.
+The hardest thing about micromanagement is that there are times when you need to do it. (It is okay to use it when you know the level of development of your repports. Unexperienced colleagues might want to have that specififc direction, because this is how they sthrive.) However, the actual hardest thing is to realize that your are presenting micromanaging behavior.
 
 Trust and control are the main issues around micromanagement.
+
+BE CAREFUL WITH THIS: When a deadline slips, as it inevitably will, you view it as a failure to control the situation precisely enough. You catch something not going the ay you expected, and it seems to reinforce your belief that micromanaging the team is an appropriate use of your time. 
 
 _Autonomy_ is an important element of motivation.
 
