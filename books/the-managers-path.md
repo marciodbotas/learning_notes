@@ -287,13 +287,15 @@ Being a good leader means being good at delegating.
 
 ### Creating a culture of continuous feedback
 
-Continuous feedback is a commitment to regularly share both positive and corrective feedback. Raise issues as they happen.
+Continuous feedback is a commitment to regularly share both positive and corrective feedback. Note when things are going well and raise issues as they happen.
+
+Remember, that few people are comfortable with providing one-on-one praise or correction, so pushing youself to do this continuous feedback helps you get over the feeling of awkwardness
 
 Steps you can take to be great at continuous feedback:
-1. **Know your people.** What are their goals, strengths and weaknesses and what do they need to do to get to the next level.
-2. **Observe your people.** Good managers have an intuition for identifying talents and helping people draw more out of their strengths. Lookout for things to praise. Every week there should be at least one thing you can recognise about someone in your team.
-3. **Provide lightweight, regular feedback.** Start with positive feedback.
-4. **Bonus: provide feedback.** When things are going well, praise them, but also **make suggestions as to what could be even better in the future**. Going beyond a simple "good job" to really help your people grow.
+1. **Know your people.** What are their goals, strengths and weaknesses and what do they might need to do to get to the next level.
+2. **Observe your people.** You can't give feedback if you aren't paying attention. Good managers have an intuition for identifying talents and helping people draw more out of their strengths. Lookout for things to praise. Every week there should be at least one thing you can recognise about someone in your team. Of course you will also want to look for weakness and areas of improvment but if you spenf most of your time trying to get people to correct weaknesses, you will end up with a style that feels more like continuous criticism
+3. **Provide lightweight, regular feedback.** Start with positive feedback.Then the corrective feedback. Positive feedback also makes your reports more likely to listen to you when you need to give them critical feedback. When they believe that their manager sees the good things they do, they will be more open to hearing about the areas where they might improve.
+4. **Bonus: provide feedback.** When things are going well, praise them, but also **make suggestions as to what could be even better in the future**. Going beyond a simple "good job" to really help your people grow. Unfortunately, many times you don't have wither the qualifications or the capabilities to provide coaching that everyone on you team needs. And keep in mind that many people will be content with doing the job they how how to do well and as long as they are doing it well enough, it's not a good use of you time to try to coach then. So save your valuable coaching time for those who are receptive to it.
 
 ### Performance reviews
 
