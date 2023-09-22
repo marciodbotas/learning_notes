@@ -301,9 +301,9 @@ Steps you can take to be great at continuous feedback:
 
 Continuous feedback is not a replacement for a more formal, 360-based performance review process.
 
-The _360 model_ is a performance review that includes feedback from, in addition to a person's manager, his teammates, anyone who reports to him, and coworkers he regularly interacts with, **as well as a self-review**.
+The _360 model_ is a performance review that includes feedback from, in addition to a person's manager, his teammates, anyone who reports to him, and coworkers he regularly interacts with, **as well as a self-review**. For example, and engineer with no direct reports might solicit reviews from two other engineers on her team, the new hire she was mentoring, and the product manager she works with. 
 
-Your job as a manager is to gather all that feedback together and summarise it into a high-level view of what other people think about your direct reports.
+Your job as a manager is to gather all that feedback together and summarise it into a high-level view for the person being reviewed. This process reward the time spent by providing a valuable chance to synthesize a bunch of information about a person, and beyond that, give you a high-level view into what other people are thinking about your direct reports. The selfreviewing gives you a sense of what your people believe about themselves.
 
 #### Writing a performance review
 
@@ -311,9 +311,9 @@ Your job as a manager is to gather all that feedback together and summarise it i
 * **Try to account for the whole year, not just the past couple months**. Keep a running summary of your 1-1s.
 * **Use concrete examples, and excerpts from peer reviews.** Forcing yourself to be specific will steer you away from writing reviews based on underlying bias.
 * **Spend plenty of time on accomplishments and strengths.** Celebrate achievements, talk about what's going well, and give plenty of praise for good work. Those strengths are what you'll use to determine when people should be promoted.
-* **When it comes to areas for improvement, keep it focused.** If the feedback seems valuable for the person to hear, share it, but don't just blindly report all the grudges. If you have very little feedback for improvement maybe that means the person is ready for promotion or given more challenging work.
+* **When it comes to areas for improvement, keep it focused.** If the feedback seems valuable for the person to hear, share it, but don't just blindly report all the grudges.It is your job to do the judgement. For example, if only one reviewer mentions sloppy work, is the problem that the work is sloppy, or that the reviewer has higher standards than the rest. If you have very little feedback for improvement maybe that means the person is ready for promotion or given more challenging work.
 * **Avoid big surprises.** If someone is underperforming across the board, the review should not be his first time getting that feedback.
-* **Schedule enough time to discuss the review.** Give them a copy of the review as they're leaving on the evening before the review is scheduled. This gives them a chance to read it at home and come prepared to talk about what it says next day.
+* **Schedule enough time to discuss the review.** Give them a copy of the review as they're leaving on the evening before the review is scheduled. This gives them a chance to read it at home and come prepared to talk about what it says next day. Don't let the report skip over strengths and accomplishments. Come prepared to dig into the resons for "bad scoring" in some areas including examples of how the person could achieve a higher score.
 
 ### Cultivating careers
 
