@@ -317,11 +317,15 @@ Your job as a manager is to gather all that feedback together and summarise it i
 
 ### Cultivating careers
 
-If you're a manager, you are going to play a key role in getting people on your team promoted, you'll need to make a case for their promotion. Learn how the game is played at your company. You need to be transparent with your team.
+If you're a manager, you are going to play a key role in getting people on your team promoted, you'll need to make a case for their promotion. Learn how the game is played at your company. You need to be transparent with your team. So they got to learn what is expected from then as well 
+
+If you have a team of entry or mid level experiency reports, your job with this group is to make sure that they are learning how to estimate their own work, getting id done roughly within the estimates and learning from their mistakes. The evidence for promotion often takes the form of projects or features they've compoleted independently, participation in oncall rotations or other support and engagement in team meetings and team planning. 
 
 Start identifying promotion-worthy projects and trying to give those projects to people who are close to promotion.
 
 If there is no growth potential on your team there's no room for people to work at a more senior level, it may be a sign that you need to rethinking the way work is done in order to let individuals take on bigger responsibilities.
+
+This work does start to change the more senior your team becomes. Many people will not continue to advance past a certain level, at least not within the same company or team.
 
 ### Challenging situations: firing underperformers
 
@@ -329,13 +333,23 @@ You might have to provide a _performance improvement plan_, a set of clearly def
 
 One of the basic rules of management is the rule of no surprises, particularly negative ones.
 
-You'll always need to have a record of negative feedback to fire someone in any environment where HR is active. Give people clear improvement feedback in writing, with a timeline for improvement, and have them acknowledge it in writing as well (an email is ok).
+You'll always need to have a record of negative feedback to fire someone in any environment where HR is active. Give people clear improvement feedback in writing, with a timeline for improvement, and have them acknowledge it in writing as well (an email is ok). 
+
+Giving feedbacks early and often, and keep records of the feedback you have been delivering, helps you to prevents such situation in which you may fall when having a discussion with a report, and one is playing the excuses on the table. Those might sound true and can be actually true, but try to stick to the facts.
 
 A final warning: don't put anyone on a plan whom you wouldn't be happy to lose.
 
 > Coaching someone out of the company
 > If you think your team is not the right place for somebody to grow his career. You aren't firing him, but you are telling that he needs to move on if he wants to progress.
 > Give the employee a chance to find a job in another part of the organisation or at another company. When he does, let him go happily.
+
+#### Assesing your own experience (28/09/23)
+ 1. I haven't set up regular 1-1s with my direct reports, however we did have one at least within the last 2 months
+ 2. The last time I talked with then about their carrer development was within the last three months, so maybe I still don't have to talk about it with them
+ 3. The last time someone behaved in a way it needed correction it took me a week or more, because I wanted to give the correction feedback in person, and I did it in private
+ 4. I have a feeling that I have never gave a performance review, so I don't have a measure exactly of how this could have been better
+ 5. The most useful piece of performance feedback I ever got is a tricky question to answer, however, one I can recal at the moment was that I should ask for help or support more often or at least do not take so much time for it. People around me can and will gladly help me go through problems that sometimes are blocking me just because some background knowledge I don't have regarding that specific topic I am working on.
+ 6. I don't know exactly how the promotion process works currently in my company, but I can go for it, my resource manager probably will know it.
 
 ## Managing a team
 
@@ -345,7 +359,7 @@ A final warning: don't put anyone on a plan whom you wouldn't be happy to lose.
 >
 > In addition to strong management skills, the engineering lead acts as a leader for their technical roadmap for their product group pillar.
 
-**Being a good manager isn't about having the most technical knowledge. The work of supporting people is far more important to management success.**
+**Being a good manager isn't about having the most technical knowledge. The work of supporting people is far more important to management success. bethanye Blount**
 
 ### Staying technical
 
